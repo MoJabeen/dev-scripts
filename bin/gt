@@ -1,4 +1,5 @@
 #!/bin/bash
+#Script to add all changes commit and then push
 
 message=$1
 
